@@ -1,10 +1,10 @@
 import "./styles.css";
-import ChartComponent from "./ChartComponent";
+import CustomChart from "./CustomChart";
 
 export default function App() {
   return (
     <div className="App">
-      <ChartComponent />
+      <CustomChart />
     </div>
   );
 }
